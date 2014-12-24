@@ -12,6 +12,21 @@ Java是一门流行度极高的语言，尤其是在web开发上，很多大型�
 
 先一句话概况，struts框架负责前端的展示，spring框架负责对象的管理、以及项目中需要用到的面向切面编程，ibatis管理Dao对象，充当数据层与JAVA对象(POJO)的媒介。
 
+![](./12-22-overview.jpg)
+
+### 配置
+
+首先是web.xml，j2ee的开发基本有这个文件。
+
+
+
+#### struts
+
+#### spring
+
+#### ibatis
+
+### 类结构
 
 
 
